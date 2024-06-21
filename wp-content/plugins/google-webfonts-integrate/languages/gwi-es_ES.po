@@ -1,0 +1,179 @@
+# Copyright (C) 2014 Google WebFonts Integrate
+# This file is distributed under the same license as the Google WebFonts Integrate package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Google WebFonts Integrate 1.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/google-webfonts-integrate\n"
+"POT-Creation-Date: 2014-05-13 07:11:25+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-05-27 11:45+0200\n"
+"Last-Translator: Serkan Algur <info@wpadami.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Poedit 1.6.5\n"
+"Language: es\n"
+
+#. Plugin Name of the plugin/theme
+#: admin-area.php:6
+msgid "Google WebFonts Integrate"
+msgstr "Google WebFonts Integrate"
+
+#: admin-area.php:10
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Usted no tiene suficientes permisos para acceder a esta página."
+
+#: admin-area.php:31
+msgid "Google Webfonts Integrate"
+msgstr "Google Webfonts Integrate"
+
+#: admin-area.php:36
+msgid "Select Where you want to use fonts:"
+msgstr "Seleccione Dónde usted desea utilizar las fuentes:"
+
+#: admin-area.php:37
+msgid "For Font 1"
+msgstr "Para la Fuente 1"
+
+#: admin-area.php:38
+msgid "For Font 2"
+msgstr "Para la Fuente 2"
+
+#: admin-area.php:39
+msgid ""
+"Write div or anything <em>id, class etc.</em>. Sperate them with comma. For "
+"example: <code>#content,.entry,#breadcrumb a,....</code>"
+msgstr ""
+"Escriba div o cualquier cosa <em> id, class, etc </em>. Separado por comas. "
+"Por ejemplo: <code>#content,.entry,#breadcrumb a,....</code>"
+
+#: admin-area.php:40
+msgid "Select Your Font:"
+msgstr "Seleccione Su Fuente:"
+
+#: admin-area.php:41
+msgid ""
+"You can choose two different font. It's optional. If you choose second font "
+"you can use two different fonts for two different areas"
+msgstr ""
+"Usted puede elegir dos fuentes diferentes. Es opcional. Si elige la segunda "
+"fuente podrá utilizar dos fuentes en dos zonas diferentes"
+
+#: admin-area.php:42
+msgid "Font 1"
+msgstr "Fuente 1"
+
+#: admin-area.php:62
+msgid "Also Preview Font"
+msgstr "También Fuente de Vista Previa"
+
+#: admin-area.php:64
+msgid "Font 2"
+msgstr "Fuente 2"
+
+#: admin-area.php:74
+msgid "Character Set (subset)"
+msgstr "Conjunto de caracteres (subconjunto)"
+
+#: admin-area.php:75
+msgid ""
+"Dont select anything if you use \"<strong>only</strong>\" Latin character "
+"set. Latin is <strong>default</strong>."
+msgstr ""
+"No seleccionar nada si utiliza el conjunto de caracteres Latín "
+"\"<strong>sólo</strong>\". El latín está por <strong>defecto</strong>."
+
+#: admin-area.php:87
+msgid "Preview Word"
+msgstr "Palabra de Vista Previa "
+
+#: admin-area.php:90
+msgid "Use your own font"
+msgstr "Utilice su propia fuente"
+
+#: admin-area.php:91
+msgid ""
+"You can add your own value for your choose (maybe 3 orf 4 fonts together)"
+msgstr ""
+"Usted puede añadir su propio valor para su elección (tal vez 3 o 4 fuentes "
+"en conjunto)"
+
+#: admin-area.php:91
+msgid "Use this format. Ex:"
+msgstr "Utilice este formato. Ej:"
+
+#: admin-area.php:92
+msgid "So what you get from Google"
+msgstr "Así que lo que tiene de Google"
+
+#: admin-area.php:93
+msgid "Enable"
+msgstr "Habilitar"
+
+#: admin-area.php:94
+msgid "<strong>Enabled</strong>"
+msgstr "<strong>Habilitado</strong>"
+
+#: admin-area.php:94
+msgid "<strong>Disabled</strong>"
+msgstr "<strong>Desabilitado</strong>"
+
+#: admin-area.php:95
+msgid "If you want to use your own font please select this checkbox"
+msgstr "Si desea utilizar su propia fuente por favor seleccione esta casilla"
+
+#: admin-area.php:97
+msgid ""
+"Also you have to write your font name here. Because my plugin cant see font "
+"name from your links for now :)."
+msgstr ""
+"También usted tiene que escribir el nombre de la fuente aquí. Debido a que "
+"mi plugin no puede ver el nombre de la fuente de sus enlaces por ahora :)."
+
+#: admin-area.php:97
+msgid "You can use Font 1 CSS area for your style."
+msgstr "Puede usar el área de CSS de la Fuente 1 para su estilo."
+
+#: admin-area.php:100
+msgid "Save Changes"
+msgstr "Guardar los Cambios"
+
+#: right-side.php:11
+msgid "Contributor"
+msgstr "Contribuir"
+
+#: right-side.php:12
+msgid "Personal Blog (Turkish)"
+msgstr "Blog Personal (Turco)"
+
+#: right-side.php:12
+msgid "Facebook"
+msgstr "Facebook"
+
+#: right-side.php:13
+msgid "Friendfeed"
+msgstr "Friendfeed"
+
+#: right-side.php:13
+msgid "Email Me"
+msgstr "Envíeme un mail"
+
+#: right-side.php:18
+msgid "Preview"
+msgstr "Anterior"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/extend/plugins/google-webfonts-integrate/"
+msgstr "http://wordpress.org/extend/plugins/google-webfonts-integrate/"
+
+#. Description of the plugin/theme
+msgid "This plugin integrate Google WebFonts v2 to your website"
+msgstr "Integrar este plugin Google WebFonts v2 a su sitio web"
+
+#. Author of the plugin/theme
+msgid "Serkan Algur"
+msgstr "Serkan Algur"
+
+#. Author URI of the plugin/theme
+msgid "http://www.kaisercrazy.com"
+msgstr "http://www.wpadami.com"

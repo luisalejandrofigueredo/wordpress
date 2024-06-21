@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Google Webfonts Integrate\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-05-12 16:28+0200\n"
+"PO-Revision-Date: 2014-05-12 16:28+0200\n"
+"Last-Translator: Serkan Algur <info@wpadami.com>\n"
+"Language-Team: kaisercrazy <info@kaisercrazy>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin-area.php:6
+msgid "Google WebFonts Integrate"
+msgstr ""
+
+#: ../admin-area.php:10
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: ../admin-area.php:31
+msgid "Google Webfonts Integrate"
+msgstr ""
+
+#: ../admin-area.php:36
+msgid "Select Where you want to use fonts:"
+msgstr ""
+
+#: ../admin-area.php:37
+msgid "For Font 1"
+msgstr ""
+
+#: ../admin-area.php:38
+msgid "For Font 2"
+msgstr ""
+
+#: ../admin-area.php:39
+msgid ""
+"Write div or anything <em>id, class etc.</em>. Sperate them with comma. For "
+"example: <code>#content,.entry,#breadcrumb a,....</code>"
+msgstr ""
+
+#: ../admin-area.php:40
+msgid "Select Your Font:"
+msgstr ""
+
+#: ../admin-area.php:41
+msgid ""
+"You can choose two different font. It's optional. If you choose second font "
+"you can use two different fonts for two different areas"
+msgstr ""
+
+#: ../admin-area.php:42
+msgid "Font 1"
+msgstr ""
+
+#: ../admin-area.php:62
+msgid "Also Preview Font"
+msgstr ""
+
+#: ../admin-area.php:64
+msgid "Font 2"
+msgstr ""
+
+#: ../admin-area.php:74
+msgid "Character Set (subset)"
+msgstr ""
+
+#: ../admin-area.php:75
+msgid ""
+"Dont select anything if you use \"<strong>only</strong>\" Latin character "
+"set. Latin is <strong>default</strong>."
+msgstr ""
+
+#: ../admin-area.php:87
+msgid "Preview Word"
+msgstr ""
+
+#: ../admin-area.php:90
+msgid "Use your own font"
+msgstr ""
+
+#: ../admin-area.php:91
+msgid ""
+"You can add your own value for your choose (maybe 3 orf 4 fonts together)"
+msgstr ""
+
+#: ../admin-area.php:91
+msgid "Use this format. Ex:"
+msgstr ""
+
+#: ../admin-area.php:92
+msgid "So what you get from Google"
+msgstr ""
+
+#: ../admin-area.php:93
+msgid "Enable"
+msgstr ""
+
+#: ../admin-area.php:94
+msgid "<strong>Enabled</strong>"
+msgstr ""
+
+#: ../admin-area.php:94
+msgid "<strong>Disabled</strong>"
+msgstr ""
+
+#: ../admin-area.php:95
+msgid "If you want to use your own font please select this checkbox"
+msgstr ""
+
+#: ../admin-area.php:97
+msgid ""
+"Also you have to write your font name here. Because my plugin cant see font "
+"name from your links for now :)."
+msgstr ""
+
+#: ../admin-area.php:97
+msgid "You can use Font 1 CSS area for your style."
+msgstr ""
+
+#: ../admin-area.php:100
+msgid "Save Changes"
+msgstr ""
+
+#: ../right-side.php:11
+msgid "Contributor"
+msgstr ""
+
+#: ../right-side.php:12
+msgid "Personal Blog (Turkish)"
+msgstr ""
+
+#: ../right-side.php:12
+msgid "WpFunC (functions share)"
+msgstr ""
+
+#: ../right-side.php:12
+msgid "Facebook"
+msgstr ""
+
+#: ../right-side.php:13
+msgid "Friendfeed"
+msgstr ""
+
+#: ../right-side.php:13
+msgid "Email Me"
+msgstr ""
+
+#: ../right-side.php:18
+msgid "Preview"
+msgstr ""

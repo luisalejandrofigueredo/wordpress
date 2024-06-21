@@ -1,0 +1,181 @@
+# Copyright (C) 2014 Google WebFonts Integrate
+# This file is distributed under the same license as the Google WebFonts Integrate package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Google WebFonts Integrate 1.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/google-webfonts-integrate\n"
+"POT-Creation-Date: 2014-05-13 07:11:25+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-05-27 11:42+0200\n"
+"Last-Translator: Serkan Algur <info@wpadami.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Poedit 1.6.5\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: sr\n"
+
+#. Plugin Name of the plugin/theme
+#: admin-area.php:6
+msgid "Google WebFonts Integrate"
+msgstr "Google WebFonts Integrate"
+
+#: admin-area.php:10
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Nemate dovoljno dozvola da pristupite ovoj stranici.."
+
+#: admin-area.php:31
+msgid "Google Webfonts Integrate"
+msgstr "Google Webfonts Integrate"
+
+#: admin-area.php:36
+msgid "Select Where you want to use fonts:"
+msgstr "Selektujte gde želite da koristite fontove:"
+
+#: admin-area.php:37
+msgid "For Font 1"
+msgstr "Za Font 1"
+
+#: admin-area.php:38
+msgid "For Font 2"
+msgstr "Za Font 2"
+
+#: admin-area.php:39
+msgid ""
+"Write div or anything <em>id, class etc.</em>. Sperate them with comma. For "
+"example: <code>#content,.entry,#breadcrumb a,....</code>"
+msgstr ""
+"Napišitee div ili bilo šta <em>id, klasa itd .</em>. Odvojite ih zarezima. "
+"Npr: <code>#content,.entry,#breadcrumb a,....</code>"
+
+#: admin-area.php:40
+msgid "Select Your Font:"
+msgstr "Selektujte vaš font:"
+
+#: admin-area.php:41
+msgid ""
+"You can choose two different font. It's optional. If you choose second font "
+"you can use two different fonts for two different areas"
+msgstr ""
+"Možete izabrati dva različita fonta. To je opcionalno . Ako odaberete drugi "
+"font možete da koristite dva različita fonta za dve različite oblasti"
+
+#: admin-area.php:42
+msgid "Font 1"
+msgstr "Font 1"
+
+#: admin-area.php:62
+msgid "Also Preview Font"
+msgstr "Takodje pregledaj font"
+
+#: admin-area.php:64
+msgid "Font 2"
+msgstr "Font 2"
+
+#: admin-area.php:74
+msgid "Character Set (subset)"
+msgstr "Set karaktera (podset)"
+
+#: admin-area.php:75
+msgid ""
+"Dont select anything if you use \"<strong>only</strong>\" Latin character "
+"set. Latin is <strong>default</strong>."
+msgstr ""
+"Nemojte ništa da selektujete ako koristite\"<strong>samo</strong>\" "
+"Latinični set karaktera. Latinični je <strong>default</strong>."
+
+#: admin-area.php:87
+msgid "Preview Word"
+msgstr "Pegledaj reč"
+
+#: admin-area.php:90
+msgid "Use your own font"
+msgstr "Koristite vaš font"
+
+#: admin-area.php:91
+msgid ""
+"You can add your own value for your choose (maybe 3 orf 4 fonts together)"
+msgstr ""
+"Možete dodati vašu sopstvenu vrednost za vaš izbor (možda  3 ili 4 fonta "
+"zajedno)"
+
+#: admin-area.php:91
+msgid "Use this format. Ex:"
+msgstr "Koristi ovaj  format. pr:"
+
+#: admin-area.php:92
+msgid "So what you get from Google"
+msgstr "Šta dobijate od Google"
+
+#: admin-area.php:93
+msgid "Enable"
+msgstr "Omogući"
+
+#: admin-area.php:94
+msgid "<strong>Enabled</strong>"
+msgstr "<strong>Omogući</strong>"
+
+#: admin-area.php:94
+msgid "<strong>Disabled</strong>"
+msgstr "<strong>Onemogući</strong>"
+
+#: admin-area.php:95
+msgid "If you want to use your own font please select this checkbox"
+msgstr "Ako želite sopstveni font selektujte ovaj checkbox"
+
+#: admin-area.php:97
+msgid ""
+"Also you have to write your font name here. Because my plugin cant see font "
+"name from your links for now :)."
+msgstr ""
+"Takodje možete da napišete font vašeg imena ovde. Jer moj plugin ne može za "
+"sada da vidi ime fonta sa vaših linkova :)."
+
+#: admin-area.php:97
+msgid "You can use Font 1 CSS area for your style."
+msgstr "Možete da koristite Font 1 CSS područje za vaš stil."
+
+#: admin-area.php:100
+msgid "Save Changes"
+msgstr "Sačuvati promene"
+
+#: right-side.php:11
+msgid "Contributor"
+msgstr "Saradnik"
+
+#: right-side.php:12
+msgid "Personal Blog (Turkish)"
+msgstr "Lični Blog (Turkish)"
+
+#: right-side.php:12
+msgid "Facebook"
+msgstr "Facebook"
+
+#: right-side.php:13
+msgid "Friendfeed"
+msgstr "Friendfeed"
+
+#: right-side.php:13
+msgid "Email Me"
+msgstr "Pošalji mi Email "
+
+#: right-side.php:18
+msgid "Preview"
+msgstr "Pregledati"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/extend/plugins/google-webfonts-integrate/"
+msgstr "http://wordpress.org/extend/plugins/google-webfonts-integrate/"
+
+#. Description of the plugin/theme
+msgid "This plugin integrate Google WebFonts v2 to your website"
+msgstr "Ovaj plugin se integriše sa Google WebFonts v2 na vađem websajtu"
+
+#. Author of the plugin/theme
+msgid "Serkan Algur"
+msgstr "Serkan Algur"
+
+#. Author URI of the plugin/theme
+msgid "http://www.kaisercrazy.com"
+msgstr "http://www.wpadami.com"
